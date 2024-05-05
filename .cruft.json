@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/Azure-Samples/Azure-Python-Standardization-Template-Generator",
-  "commit": "0f0b48d22b43a060ee42f3055771173518f01729",
+  "commit": "82ebdea72763d9d16ea985fa974e461a92705018",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -11,7 +11,7 @@
       "project_host": "aca",
       "web_port": "8000",
       "__repo_name": "azure-flask-postgres-addon-aca",
-      "__src_folder_name": "azure_flask_postgres_addon_aca",
+      "__src_folder_name": "azure-flask-postgres-addon-aca",
       "__project_short_description": "Create a relecloud demo application with flask and postgres-addon",
       "_copy_without_render": [
         ".github/workflows/azure-dev.yml",
